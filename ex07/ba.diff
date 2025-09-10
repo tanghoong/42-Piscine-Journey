@@ -1,0 +1,6 @@
+1,3c1
+< line 1.
+< hello, linux.
+< line 2.
+---
+> hello, world
